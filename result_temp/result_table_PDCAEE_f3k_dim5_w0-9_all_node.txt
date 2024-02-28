@@ -1,0 +1,46 @@
+node=808
+Case 1 performance: AUC : 0.999806162464986; ACC : 1.0; F1 : 1.0; Prec : 1.0; Recall : 1.0
+ Case 2 performance: AUC : 0.9997915966386555; ACC : 1.0; F1 : 1.0; Prec : 1.0; Recall : 1.0
+ Case 3 performance: AUC : 0.9983619047619048; ACC : 1.0; F1 : 1.0; Prec : 1.0; Recall : 1.0
+ Case 4 performance: AUC : 0.9951361344537816; ACC : 1.0; F1 : 1.0; Prec : 1.0; Recall : 1.0
+ Case 5 performance: AUC : 0.9816403361344538; ACC : 0.97; F1 : 0.9690721649484536; Prec : 1.0; Recall : 0.94
+ Case 6 performance: AUC : 0.9632151260504201; ACC : 1.0; F1 : 1.0; Prec : 1.0; Recall : 1.0
+ Case 7 performance: AUC : 0.9934016806722689; ACC : 1.0; F1 : 1.0; Prec : 1.0; Recall : 1.0
+ Global performance: AUC : 0.9901932773109243; ACC : 0.9957142857142857; F1 : 0.9955817378497791; Prec : 1.0; Recall : 0.9914285714285713
+ node=816
+Case 1 performance: AUC : 0.8750095238095238; ACC : 1.0; F1 : 1.0; Prec : 1.0; Recall : 1.0
+ Case 2 performance: AUC : 0.9999932773109244; ACC : 1.0; F1 : 1.0; Prec : 1.0; Recall : 1.0
+ Case 3 performance: AUC : 0.9998778711484594; ACC : 1.0; F1 : 1.0; Prec : 1.0; Recall : 1.0
+ Case 4 performance: AUC : 0.9998296918767506; ACC : 1.0; F1 : 1.0; Prec : 1.0; Recall : 1.0
+ Case 5 performance: AUC : 0.943690756302521; ACC : 1.0; F1 : 1.0; Prec : 1.0; Recall : 1.0
+ Case 6 performance: AUC : 0.9992885154061624; ACC : 1.0; F1 : 1.0; Prec : 1.0; Recall : 1.0
+ Case 7 performance: AUC : 0.9999215686274511; ACC : 1.0; F1 : 1.0; Prec : 1.0; Recall : 1.0
+ Global performance: AUC : 0.9739444577831132; ACC : 1.0; F1 : 1.0; Prec : 1.0; Recall : 1.0
+ node=832
+Case 1 performance: AUC : 0.7573109243697479; ACC : 0.51; F1 : 0.0392156862745098; Prec : 1.0; Recall : 0.02
+ Case 2 performance: AUC : 0.9564683473389356; ACC : 1.0; F1 : 1.0; Prec : 1.0; Recall : 1.0
+ Case 3 performance: AUC : 0.9028627450980393; ACC : 1.0; F1 : 1.0; Prec : 1.0; Recall : 1.0
+ Case 4 performance: AUC : 0.9257680672268908; ACC : 1.0; F1 : 1.0; Prec : 1.0; Recall : 1.0
+ Case 5 performance: AUC : 0.9727787114845939; ACC : 1.0; F1 : 1.0; Prec : 1.0; Recall : 1.0
+ Case 6 performance: AUC : 0.9577389355742297; ACC : 1.0; F1 : 1.0; Prec : 1.0; Recall : 1.0
+ Case 7 performance: AUC : 0.9904672268907564; ACC : 1.0; F1 : 1.0; Prec : 1.0; Recall : 1.0
+ Global performance: AUC : 0.923342136854742; ACC : 0.9299999999999999; F1 : 0.8627450980392156; Prec : 1.0; Recall : 0.86
+ node=834
+Case 1 performance: AUC : 0.7208022408963585; ACC : 0.5; F1 : 0.0; Prec : 0.0; Recall : 0.0
+ Case 2 performance: AUC : 0.9728549019607843; ACC : 1.0; F1 : 1.0; Prec : 1.0; Recall : 1.0
+ Case 3 performance: AUC : 0.950610644257703; ACC : 1.0; F1 : 1.0; Prec : 1.0; Recall : 1.0
+ Case 4 performance: AUC : 0.9642296918767508; ACC : 1.0; F1 : 1.0; Prec : 1.0; Recall : 1.0
+ Case 5 performance: AUC : 0.9982935574229692; ACC : 1.0; F1 : 1.0; Prec : 1.0; Recall : 1.0
+ Case 6 performance: AUC : 1.0; ACC : 1.0; F1 : 1.0; Prec : 1.0; Recall : 1.0
+ Case 7 performance: AUC : 0.9976033613445379; ACC : 1.0; F1 : 1.0; Prec : 1.0; Recall : 1.0
+ Global performance: AUC : 0.9434849139655863; ACC : 0.9285714285714286; F1 : 0.8571428571428571; Prec : 0.8571428571428571; Recall : 0.8571428571428571
+ node=836
+Case 1 performance: AUC : 0.6367540616246499; ACC : 0.5; F1 : 0.0; Prec : 0.0; Recall : 0.0
+ Case 2 performance: AUC : 0.9954509803921568; ACC : 1.0; F1 : 1.0; Prec : 1.0; Recall : 1.0
+ Case 3 performance: AUC : 0.9718700280112045; ACC : 1.0; F1 : 1.0; Prec : 1.0; Recall : 1.0
+ Case 4 performance: AUC : 0.9828280112044817; ACC : 1.0; F1 : 1.0; Prec : 1.0; Recall : 1.0
+ Case 5 performance: AUC : 0.9987619047619047; ACC : 1.0; F1 : 1.0; Prec : 1.0; Recall : 1.0
+ Case 6 performance: AUC : 0.9998263305322129; ACC : 1.0; F1 : 1.0; Prec : 1.0; Recall : 1.0
+ Case 7 performance: AUC : 0.9998252100840336; ACC : 1.0; F1 : 1.0; Prec : 1.0; Recall : 1.0
+ Global performance: AUC : 0.9407595038015205; ACC : 0.9285714285714286; F1 : 0.8571428571428571; Prec : 0.8571428571428571; Recall : 0.8571428571428571
+ 

@@ -1,0 +1,91 @@
+w=0
+Case 1 performance: AUC : 0.10044145658263307; ACC : 0.5; F1 : 0.0; Prec : 0.0; Recall : 0.0
+ Case 2 performance: AUC : 0.7176974789915966; ACC : 0.5; F1 : 0.0; Prec : 0.0; Recall : 0.0
+ Case 3 performance: AUC : 0.6297008403361344; ACC : 0.5; F1 : 0.0; Prec : 0.0; Recall : 0.0
+ Case 4 performance: AUC : 0.8773008403361344; ACC : 0.5; F1 : 0.0; Prec : 0.0; Recall : 0.0
+ Case 5 performance: AUC : 0.8229613445378152; ACC : 0.97; F1 : 0.9690721649484536; Prec : 1.0; Recall : 0.94
+ Case 6 performance: AUC : 0.5095932773109244; ACC : 0.65; F1 : 0.4615384615384615; Prec : 1.0; Recall : 0.3
+ Case 7 performance: AUC : 0.9078644257703081; ACC : 1.0; F1 : 1.0; Prec : 1.0; Recall : 1.0
+ Global performance: AUC : 0.6522228091236494; ACC : 0.6599999999999999; F1 : 0.3472300894981308; Prec : 0.42857142857142855; Recall : 0.32
+ w=0.0001
+Case 1 performance: AUC : 0.075896918767507; ACC : 0.5; F1 : 0.0; Prec : 0.0; Recall : 0.0
+ Case 2 performance: AUC : 0.7429501400560224; ACC : 0.5; F1 : 0.0; Prec : 0.0; Recall : 0.0
+ Case 3 performance: AUC : 0.5911428571428571; ACC : 0.5; F1 : 0.0; Prec : 0.0; Recall : 0.0
+ Case 4 performance: AUC : 0.8764268907563025; ACC : 0.56; F1 : 0.21428571428571425; Prec : 1.0; Recall : 0.12
+ Case 5 performance: AUC : 0.8216941176470587; ACC : 0.97; F1 : 0.9690721649484536; Prec : 1.0; Recall : 0.94
+ Case 6 performance: AUC : 0.5102565826330532; ACC : 0.65; F1 : 0.4615384615384615; Prec : 1.0; Recall : 0.3
+ Case 7 performance: AUC : 0.9119809523809524; ACC : 1.0; F1 : 1.0; Prec : 1.0; Recall : 1.0
+ Global performance: AUC : 0.6471926370548219; ACC : 0.6685714285714285; F1 : 0.3778423343960899; Prec : 0.5714285714285714; Recall : 0.3371428571428572
+ w=0.1
+Case 1 performance: AUC : 0.3104560224089636; ACC : 0.49; F1 : 0.0; Prec : 0.0; Recall : 0.0
+ Case 2 performance: AUC : 0.908770868347339; ACC : 0.99; F1 : 0.99009900990099; Prec : 0.9803921568627451; Recall : 1.0
+ Case 3 performance: AUC : 0.8691361344537815; ACC : 0.86; F1 : 0.8409090909090909; Prec : 0.9736842105263158; Recall : 0.74
+ Case 4 performance: AUC : 0.9194834733893558; ACC : 0.99; F1 : 0.99009900990099; Prec : 0.9803921568627451; Recall : 1.0
+ Case 5 performance: AUC : 0.8489893557422968; ACC : 0.97; F1 : 0.9696969696969697; Prec : 0.9795918367346939; Recall : 0.96
+ Case 6 performance: AUC : 0.8527294117647058; ACC : 0.74; F1 : 0.6578947368421052; Prec : 0.9615384615384616; Recall : 0.5
+ Case 7 performance: AUC : 0.9399406162464986; ACC : 0.99; F1 : 0.99009900990099; Prec : 0.9803921568627451; Recall : 1.0
+ Global performance: AUC : 0.8070722689075629; ACC : 0.8614285714285714; F1 : 0.776971118164448; Prec : 0.8365701399125295; Recall : 0.7428571428571429
+ w=0.5
+Case 1 performance: AUC : 0.6542621848739496; ACC : 0.46; F1 : 0.0; Prec : 0.0; Recall : 0.0
+ Case 2 performance: AUC : 0.9411865546218486; ACC : 0.96; F1 : 0.9615384615384615; Prec : 0.9259259259259259; Recall : 1.0
+ Case 3 performance: AUC : 0.9322980392156862; ACC : 0.96; F1 : 0.9615384615384615; Prec : 0.9259259259259259; Recall : 1.0
+ Case 4 performance: AUC : 0.9445680672268907; ACC : 0.96; F1 : 0.9615384615384615; Prec : 0.9259259259259259; Recall : 1.0
+ Case 5 performance: AUC : 0.9600100840336134; ACC : 0.96; F1 : 0.9615384615384615; Prec : 0.9259259259259259; Recall : 1.0
+ Case 6 performance: AUC : 0.965450980392157; ACC : 0.93; F1 : 0.9306930693069307; Prec : 0.9215686274509803; Recall : 0.94
+ Case 7 performance: AUC : 0.9518868347338938; ACC : 0.96; F1 : 0.9615384615384615; Prec : 0.9259259259259259; Recall : 1.0
+ Global performance: AUC : 0.9070946778711485; ACC : 0.8842857142857142; F1 : 0.8197693395713197; Prec : 0.793028322440087; Recall : 0.8485714285714285
+ w=0.9
+Case 1 performance: AUC : 0.7573109243697479; ACC : 0.51; F1 : 0.0392156862745098; Prec : 1.0; Recall : 0.02
+ Case 2 performance: AUC : 0.9564683473389356; ACC : 1.0; F1 : 1.0; Prec : 1.0; Recall : 1.0
+ Case 3 performance: AUC : 0.9028627450980393; ACC : 1.0; F1 : 1.0; Prec : 1.0; Recall : 1.0
+ Case 4 performance: AUC : 0.9257680672268908; ACC : 1.0; F1 : 1.0; Prec : 1.0; Recall : 1.0
+ Case 5 performance: AUC : 0.9727787114845939; ACC : 1.0; F1 : 1.0; Prec : 1.0; Recall : 1.0
+ Case 6 performance: AUC : 0.9577389355742297; ACC : 1.0; F1 : 1.0; Prec : 1.0; Recall : 1.0
+ Case 7 performance: AUC : 0.9904672268907564; ACC : 1.0; F1 : 1.0; Prec : 1.0; Recall : 1.0
+ Global performance: AUC : 0.923342136854742; ACC : 0.9299999999999999; F1 : 0.8627450980392156; Prec : 1.0; Recall : 0.86
+ w=0.95
+Case 1 performance: AUC : 0.8704392156862746; ACC : 0.5; F1 : 0.0; Prec : 0.0; Recall : 0.0
+ Case 2 performance: AUC : 0.9962487394957984; ACC : 1.0; F1 : 1.0; Prec : 1.0; Recall : 1.0
+ Case 3 performance: AUC : 0.9947282913165265; ACC : 1.0; F1 : 1.0; Prec : 1.0; Recall : 1.0
+ Case 4 performance: AUC : 0.9772739495798319; ACC : 1.0; F1 : 1.0; Prec : 1.0; Recall : 1.0
+ Case 5 performance: AUC : 0.9982207282913166; ACC : 1.0; F1 : 1.0; Prec : 1.0; Recall : 1.0
+ Case 6 performance: AUC : 0.9981725490196078; ACC : 1.0; F1 : 1.0; Prec : 1.0; Recall : 1.0
+ Case 7 performance: AUC : 0.9996436974789915; ACC : 1.0; F1 : 1.0; Prec : 1.0; Recall : 1.0
+ Global performance: AUC : 0.9763895958383354; ACC : 0.9285714285714286; F1 : 0.8571428571428571; Prec : 0.8571428571428571; Recall : 0.8571428571428571
+ w=0.99
+Case 1 performance: AUC : 0.8136840336134454; ACC : 0.53; F1 : 0.11320754716981131; Prec : 1.0; Recall : 0.06
+ Case 2 performance: AUC : 0.9612; ACC : 1.0; F1 : 1.0; Prec : 1.0; Recall : 1.0
+ Case 3 performance: AUC : 0.960272268907563; ACC : 1.0; F1 : 1.0; Prec : 1.0; Recall : 1.0
+ Case 4 performance: AUC : 0.9748481792717086; ACC : 1.0; F1 : 1.0; Prec : 1.0; Recall : 1.0
+ Case 5 performance: AUC : 0.9821187675070028; ACC : 1.0; F1 : 1.0; Prec : 1.0; Recall : 1.0
+ Case 6 performance: AUC : 0.9824605042016806; ACC : 1.0; F1 : 1.0; Prec : 1.0; Recall : 1.0
+ Case 7 performance: AUC : 0.9636649859943978; ACC : 1.0; F1 : 1.0; Prec : 1.0; Recall : 1.0
+ Global performance: AUC : 0.9483212484993998; ACC : 0.9328571428571429; F1 : 0.8733153638814015; Prec : 1.0; Recall : 0.8657142857142858
+ w=0.999
+Case 1 performance: AUC : 0.5622341736694678; ACC : 0.5; F1 : 0.0; Prec : 0.0; Recall : 0.0
+ Case 2 performance: AUC : 0.9876235294117647; ACC : 1.0; F1 : 1.0; Prec : 1.0; Recall : 1.0
+ Case 3 performance: AUC : 0.9591327731092437; ACC : 1.0; F1 : 1.0; Prec : 1.0; Recall : 1.0
+ Case 4 performance: AUC : 0.9761994397759104; ACC : 1.0; F1 : 1.0; Prec : 1.0; Recall : 1.0
+ Case 5 performance: AUC : 0.9812425770308124; ACC : 1.0; F1 : 1.0; Prec : 1.0; Recall : 1.0
+ Case 6 performance: AUC : 0.9832425770308123; ACC : 1.0; F1 : 1.0; Prec : 1.0; Recall : 1.0
+ Case 7 performance: AUC : 0.9777165266106443; ACC : 1.0; F1 : 1.0; Prec : 1.0; Recall : 1.0
+ Global performance: AUC : 0.9181987995198079; ACC : 0.9285714285714286; F1 : 0.8571428571428571; Prec : 0.8571428571428571; Recall : 0.8571428571428571
+ w=0.9999
+Case 1 performance: AUC : 0.6218689075630253; ACC : 0.61; F1 : 0.5411764705882354; Prec : 0.6571428571428571; Recall : 0.46
+ Case 2 performance: AUC : 0.919983193277311; ACC : 0.88; F1 : 0.8928571428571428; Prec : 0.8064516129032258; Recall : 1.0
+ Case 3 performance: AUC : 0.8929815126050419; ACC : 0.88; F1 : 0.8928571428571428; Prec : 0.8064516129032258; Recall : 1.0
+ Case 4 performance: AUC : 0.9598016806722689; ACC : 0.88; F1 : 0.8928571428571428; Prec : 0.8064516129032258; Recall : 1.0
+ Case 5 performance: AUC : 0.9631361344537814; ACC : 0.88; F1 : 0.8928571428571428; Prec : 0.8064516129032258; Recall : 1.0
+ Case 6 performance: AUC : 0.884355182072829; ACC : 0.88; F1 : 0.8928571428571428; Prec : 0.8064516129032258; Recall : 1.0
+ Case 7 performance: AUC : 0.9206677871148459; ACC : 0.88; F1 : 0.8928571428571428; Prec : 0.8064516129032258; Recall : 1.0
+ Global performance: AUC : 0.880399199679872; ACC : 0.8414285714285714; F1 : 0.8426170468187273; Prec : 0.7851217906517446; Recall : 0.9228571428571428
+ w=1
+Case 1 performance: AUC : 0.364; ACC : 0.49; F1 : 0.0; Prec : 0.0; Recall : 0.0
+ Case 2 performance: AUC : 0.3348369747899159; ACC : 0.49; F1 : 0.0; Prec : 0.0; Recall : 0.0
+ Case 3 performance: AUC : 0.3792089635854342; ACC : 0.5; F1 : 0.038461538461538464; Prec : 0.5; Recall : 0.02
+ Case 4 performance: AUC : 0.3683002801120448; ACC : 0.49; F1 : 0.0; Prec : 0.0; Recall : 0.0
+ Case 5 performance: AUC : 0.5028179271708684; ACC : 0.6; F1 : 0.3548387096774193; Prec : 0.9166666666666666; Recall : 0.22
+ Case 6 performance: AUC : 0.3133378151260504; ACC : 0.49; F1 : 0.0; Prec : 0.0; Recall : 0.0
+ Case 7 performance: AUC : 0.3557075630252101; ACC : 0.49; F1 : 0.0; Prec : 0.0; Recall : 0.0
+ Global performance: AUC : 0.37402993197278916; ACC : 0.5071428571428571; F1 : 0.05618574973413683; Prec : 0.20238095238095236; Recall : 0.03428571428571429
+ 
